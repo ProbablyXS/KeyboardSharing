@@ -4,6 +4,11 @@
   A simple application that captures keyboard inputs and sends them over TCP to a remote server.
 </p>
 
+## Showcase
+![image](https://github.com/user-attachments/assets/07b7a0d4-d698-4616-88db-bc526f2c2caf)
+![image](https://github.com/user-attachments/assets/421b98e7-9ddc-4d20-9181-8714456023f0)
+
+
 ## Overview
 
 KeyboardSharing is a C# application that hooks into your keyboard to capture key presses. It then sends these captured key presses over a TCP connection to a specified server. This can be used for remote key logging, input synchronization, or other related purposes.
