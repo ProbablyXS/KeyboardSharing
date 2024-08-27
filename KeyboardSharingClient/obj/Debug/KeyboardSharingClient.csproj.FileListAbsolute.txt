@@ -1,0 +1,9 @@
+D:\Users\Administrator\Desktop\WindowsFormsApp2\KeyboardSharingClient\bin\Debug\KeyboardSharingClient.exe.config
+D:\Users\Administrator\Desktop\WindowsFormsApp2\KeyboardSharingClient\bin\Debug\KeyboardSharingClient.exe
+D:\Users\Administrator\Desktop\WindowsFormsApp2\KeyboardSharingClient\bin\Debug\KeyboardSharingClient.pdb
+D:\Users\Administrator\Desktop\WindowsFormsApp2\KeyboardSharingClient\obj\Debug\KeyboardSharingClient.csproj.AssemblyReference.cache
+D:\Users\Administrator\Desktop\WindowsFormsApp2\KeyboardSharingClient\obj\Debug\KeyboardSharingClient.Properties.Resources.resources
+D:\Users\Administrator\Desktop\WindowsFormsApp2\KeyboardSharingClient\obj\Debug\KeyboardSharingClient.csproj.GenerateResource.cache
+D:\Users\Administrator\Desktop\WindowsFormsApp2\KeyboardSharingClient\obj\Debug\KeyboardSharingClient.csproj.CoreCompileInputs.cache
+D:\Users\Administrator\Desktop\WindowsFormsApp2\KeyboardSharingClient\obj\Debug\KeyboardSharingClient.exe
+D:\Users\Administrator\Desktop\WindowsFormsApp2\KeyboardSharingClient\obj\Debug\KeyboardSharingClient.pdb
